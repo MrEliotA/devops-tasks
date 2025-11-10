@@ -1,0 +1,42 @@
+employee_id,name,department,salary,status
+EMP7269,Andrew Flores,Engineering,77399.00,Active
+EMP8610,James King,Engineering,72307.00,Active
+EMP2239,Donald Martinez,Engineering,62713.00,Active
+EMP2276,Andrew Rivera,Engineering,96910.00,Active
+EMP9949,Karen Carter,Finance,87639.00,Active
+EMP4707,Daniel Garcia,Finance,74055.00,Active
+EMP8256,Emily Harris,Finance,87657.00,Active
+EMP8424,Sarah Harris,Finance,89795.00,Active
+EMP2755,Brian Hernandez,Finance,66111.00,Active
+EMP7737,Carol Mitchell,Finance,58238.00,Active
+EMP1600,Sarah Taylor,Finance,80157.00,Active
+EMP2628,Christopher Wright,Finance,75769.00,Active
+EMP7231,William Wright,Finance,68750.00,Active
+EMP6450,Robert Green,HR,61798.00,Active
+EMP9344,Donna Jones,HR,48796.00,Active
+EMP3374,Kenneth Lopez,HR,59073.00,Active
+EMP7610,Patricia Roberts,HR,60229.00,Active
+EMP7765,Jane Baker,IT Support,80853.00,Active
+EMP7433,Sharon Campbell,IT Support,78812.00,Active
+EMP6344,Elizabeth Hall,IT Support,83571.00,Active
+EMP6778,Edward Harris,IT Support,55998.00,Active
+EMP3495,Barbara Lewis,IT Support,80373.00,Active
+EMP1575,George Martin,IT Support,63178.00,Active
+EMP6350,Donna Miller,IT Support,72989.00,Active
+EMP2346,Elizabeth Nguyen,IT Support,69202.00,Active
+EMP6668,Anthony Baker,Marketing,77372.00,Active
+EMP8225,Elizabeth Campbell,Marketing,79407.00,Active
+EMP3692,Anthony Harris,Marketing,48221.00,Active
+EMP1882,Susan Jackson,Marketing,59584.00,Active
+EMP4535,Susan Nguyen,Marketing,79254.00,Active
+EMP8205,Betty Roberts,Marketing,52458.00,Active
+EMP2389,James Baker,Operations,65193.00,Active
+EMP2567,Mark Brown,Operations,70871.00,Active
+EMP7618,Edward Hall,Operations,54219.00,Active
+EMP8857,Carol Johnson,Operations,55292.00,Active
+EMP6362,Joseph Moore,Operations,76178.00,Active
+EMP4458,Patricia Moore,Operations,82065.00,Active
+EMP3689,Kimberly Thompson,Operations,78970.00,Active
+EMP1696,Jane Williams,Operations,74893.00,Active
+EMP9579,James Wright,Operations,70358.00,Active
+EMP3565,John Miller,Sales,68249.00,Active

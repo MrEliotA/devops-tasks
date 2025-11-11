@@ -42,7 +42,7 @@ This assignment includes three Bash scripts that work with a MySQL database:
 
 ## File Structure
 ```
-homework/
+DevOps Bash Database Assignment/
 ├── import_db.sh           # Task 1: Database import
 ├── generate_report.sh     # Task 2: Report generator (Active employees → CSV)
 ├── import_csv.sh          # Task 3: CSV → employee_reports

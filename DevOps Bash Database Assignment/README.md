@@ -1,4 +1,4 @@
-# evOps Bash Database Assignment
+# DevOps Bash Database Assignment
 
 MySQL + Bash scripts for importing data, generating a CSV report, and re-importing the CSV into a new table — with validation, backups, and logging.
 
